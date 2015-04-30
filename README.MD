@@ -44,3 +44,15 @@
 ##ex11
 
 * symlink() and readlink()
+
+##ex12
+
+* device number
+
+##ex13
+
+* freopen()
+
+
+
+
