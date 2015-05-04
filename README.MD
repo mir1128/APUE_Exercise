@@ -53,6 +53,29 @@
 
 * freopen()
 
+##ex14
+
+* tempnam usage
+
+##ex15
+
+* group lookup getgrnam
+
+##ex16
+
+* user traversal
+
+##ex17
+
+* atexit
+
+##ex18
+
+* getenv
+
+##ex19
+
+* fork
 
 
 
